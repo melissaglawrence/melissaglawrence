@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Melissa</h1>
 <h3 align="center">A passionate frontend developer from Las Vegas, NV! Currently enrolled in the Practicum by Yandex web developer program. Always working on learning new skills to become a better programmer. Would love to collaborate on new projects, don't hesitate to reach out!</h3>
 
-- 🔭 I’m currently working on [around-express](https://github.com/melissaglawrence/around-express)
+- 🔭 I’m currently working on [News-Explorer](https://github.com/melissaglawrence/News-Explorer)
 
 - 🌱 I’m currently learning **React and ExpressJS**
 
